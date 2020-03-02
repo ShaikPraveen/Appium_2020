@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/FSS_PRAVEEN/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/shaikpraveen/Downloads/java-client-7.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/FSS_PRAVEEN/APK/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shaikpraveen/Downloads/testng-7.1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/shaikpraveen/Downloads/extentreports-4.1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
